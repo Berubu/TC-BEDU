@@ -1,4 +1,4 @@
-package Solucion_R1;
+package Solucion_R2;
 
 public class Entrada {
     String evento;

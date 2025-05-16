@@ -7,7 +7,6 @@ public class Principal {
         Estudiante estudiante1 = new Estudiante();
         estudiante1.nombre = "Lena Marie";
         estudiante1.edad = 20;
-        // método saludar() del objet
         estudiante1.saludar();
     }
 }

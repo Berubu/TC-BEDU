@@ -1,4 +1,4 @@
-package Solucion_Reto_02;
+package Solucion_R2;
 
 public record Entrada_Record(String evento, double precio) {
     public void mostrarInformacion() {
