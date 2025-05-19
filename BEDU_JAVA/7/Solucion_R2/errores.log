@@ -1,0 +1,4 @@
+INFO   Inicio de pruebas
+WARNING Tiempo de respuesta alto en módulo X
+ERROR  Excepción NullPointer en ClaseY
+INFO   Prueba completada
