@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+application {
+    mainClass = 'reto3.MovilidadApp'
+}
+
+repositories {
+    mavenCentral()
+}
